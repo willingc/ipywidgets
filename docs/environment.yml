@@ -1,0 +1,16 @@
+name: nice_docs
+dependencies:
+- sphinx==1.3.6
+- recommonmark==0.4.0
+- sphinx_bootstrap_theme
+- nbsphinx
+- jinja2
+- tornado
+- nbformat
+- jupyter_client
+- notebook
+- ipykernel
+- ipywidgets
+- pip:
+    - sphinxcontrib_spelling
+    - pyenchant
