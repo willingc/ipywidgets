@@ -11,7 +11,6 @@ dependencies:
 - ipykernel
 - ipywidgets
 - notebook>=4.2
-- jupyter_js_widgets
 - widgetsnbextension
 - traitlets
 - ipython
