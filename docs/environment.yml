@@ -2,7 +2,7 @@ name: ipywidget_docs
 channels:
 - conda-forge
 dependencies:
-- python=3.5
+- python=2.7
 - sphinx_rtd_theme
 - jinja2
 - tornado
