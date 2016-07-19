@@ -10,6 +10,11 @@ dependencies:
 - jupyter_client
 - ipykernel
 - ipywidgets
+- notebook>=4.2
+- jupyter_js_widgets
+- widgetsnbextension
+- traitlets
+- ipython
 - pip:
   - sphinx==1.4.5
   - nbsphinx==0.2.8
