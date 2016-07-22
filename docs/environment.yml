@@ -9,7 +9,7 @@ dependencies:
 - tornado
 - nbformat
 - jupyter_client
-- ipywidgets>=5.2
+- ipywidgets
 - notebook>=4.2.1
 - pip:
   - sphinx==1.4.5
