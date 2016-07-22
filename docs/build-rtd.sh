@@ -4,7 +4,7 @@ nvm install 5
 nvm use 5
 nvm alias default 5
 npm install -g npm
-cd ../jupyter-js-widgets
-npm install
+cd ../../jupyter-js-widgets
+npm install --save jupyter-js-widgets
 cd ../docs
 npm install
