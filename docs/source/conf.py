@@ -59,6 +59,7 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 if on_rtd:
     print('On RTD, installing node and building...')
     bash('../build-rtd.sh')
+    html_theme = "sphinx_rtd_theme"
 else:
     print('Local build not on RTD, building...')
 

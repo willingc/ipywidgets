@@ -10,9 +10,9 @@ dependencies:
 - nbformat
 - ipywidgets
 - notebook>=4.2
-- sphinx>=1.4.6
 - ipykernel
 - pip:
+  - sphinx==1.5a1
   - nbsphinx==0.2.9
   - sphinx_rtd_theme==0.1.10-alpha
   - python-dateutil
